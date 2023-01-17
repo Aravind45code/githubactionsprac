@@ -1,6 +1,6 @@
 name: "Simple Welcome Message"
 
-on: [push] 
+on: [push]
 
 jobs:
   Job1-Message-Action:
